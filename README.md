@@ -1,0 +1,1 @@
+Horizon is a commercial-grade web platform engineered to deliver a high-impact digital experience. The site leverages modern front-end architecture to drive engagement, streamline user journeys, and upscale brand visibility.
